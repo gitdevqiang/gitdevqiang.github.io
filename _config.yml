@@ -1,21 +1,22 @@
-title: Hanlin Cai
+title: Qiang Yang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://qiangyangcs.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Qiang (John) Yang
+  avatar: Qiang.jpg
  # bio:
-  email: hanlin.cai@ieee.org
+  email: qiang.yang@kaust.edu.sa
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  #twitter: lancecai2002
   # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  github: gitdevqiang@github.com
+  linkedin: www.linkedin.com/in/qiang-yang-99167a1b1
+  scholar: https://scholar.google.com/citations?user=hDCsypAAAAAJ&hl=en
+  orcid: http://orcid.org/0000-0002-3211-5369
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -34,21 +35,23 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+  # - title: Projects
+  #   url: /projects/
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Fundings
+  #   url: /fundings/
+  # - title: Hobbies
+  #   url: /hobbies/
   - title: Blogs
     url: /blogs/
+  - title: Awards
+    url: /awards/
+  - title: Resume
+    url: /file/Academic_CV_English.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Riyadh
 future: true
 highlighter: rouge
 # markdown: kramdown
