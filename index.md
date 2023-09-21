@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://qiangyangcs.github.io/Qiang_r.jpg" class="floatpic" width="360" height="480">
 
-I am Qiang Yang, a Ph.D. candidate in King Abdullah University of Science and Technology (KAUST). I major in computer science in the labs of [Machine Intelligence and kNowledge Engineering (MINE)](https://sites.nd.edu/xiangliang-zhang/) and [Structural and Functional Bioinformatics Group (SFB)](https://cemse.kaust.edu.sa/sfb). I am supervised by Prof. [Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/) and Prof. [Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao). My dissertation focuses on interpretable learning on heterogeneous graphs, which reveals the predicted results by heterogeneous graph models. This renders the predictions understandable, tranprant, and compelling.
+I am Qiang (John) Yang, a Ph.D. candidate in King Abdullah University of Science and Technology (KAUST). I major in computer science in the labs of [Machine Intelligence and kNowledge Engineering (MINE)](https://sites.nd.edu/xiangliang-zhang/) and [Structural and Functional Bioinformatics Group (SFB)](https://cemse.kaust.edu.sa/sfb). I am supervised by Prof. [Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/) and Prof. [Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao). My dissertation focuses on interpretable learning on heterogeneous graphs, which reveals the predicted results by heterogeneous graph models. This renders the predictions understandable, tranprant, and compelling.
 
 I obtained Master degree with outstanding Master student award from Soochow University advised by Prof. Zhixu Li. During this processing, I mainly focus on database systems. Particularly, the overall goal is to improve data quality where I did some researches like record matching and data cleaning. Also, the exploration on the knowledge graphs (KGs) was done, like KG construction, representation, and so on.
 
@@ -34,7 +34,7 @@ I obtained Master degree with outstanding Master student award from Soochow Univ
 - Sentiment Analysis
 - Sound Analysis
 
-[LEARN MORE](https://qiangyangcs.github.io/interests)
+<span style="font-size: larger;">[LEARN MORE](https://qiangyangcs.github.io/interests)</span>
 
 <br>
 
