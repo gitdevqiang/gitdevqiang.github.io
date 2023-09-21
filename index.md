@@ -32,7 +32,7 @@ I'm Qiang Yang, a PhD candidate in King Abdullah University of Science and Techn
 - Sentiment Analysis
 - Sound Analysis
 
-My current research focuses on interpretable graph learning to interpret how the prediction made by graph models is generated on the graph relavent tasks, such as node classification, graph classification, and link prediction. Multimodal mining is also explored in my PhD. I also have the background of Knowledge graph mining as well as database systems including data cleaning, and data matching.
+My current research focuses on interpretable graph learning to interpret how the prediction made by graph models is generated on the graph relavent tasks, such as node classification, graph classification, and link prediction. Multimodal mining is also explored in my PhD period. During my master studying, I have the background of Knowledge graph (KG) mining such as KG construction, KG representations, and so on.  The database systems relevant tasks are also done including data cleaning, and data matching.
 
 <br>
 
