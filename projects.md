@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /projects/index.html
+title: Projects
 ---
 
-## Chinese Blogs
 
 ### 2020
 
