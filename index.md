@@ -46,23 +46,6 @@ My current research focuses on interpretable graph learning to interpret how the
 - Language
   - English, Chinese
 
-## Awards & Services
-
-### Honors
-
-- Mar 2018：*Excellent Graduate Student*
-- Jun 2017：*Soochow University Excellent Master Thesis*
-- May 2017：Suzhou Industrial Park Scholarship
-- Dec 2016：*China National Scholarship(Top-3)*
-- Jun 2016：Outstanding Graduate
-- Dec 2015：University Scholarship Second Prize
-- Oct 2015：*Best Student Paper in NDBC 2015*<br>
-
-### Services
-
-- March 2021 - Oct 2022：Technical Contributor of IEEE CS Global Student Challenge 2021
-- PC of AAAI, ISWC, CCL, NLPCC
-
 
 ## News and Updates
 
@@ -74,6 +57,7 @@ My current research focuses on interpretable graph learning to interpret how the
 - **May 2023：**Collected the Finalist Award in MCM 2023.
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 - **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
- - If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].-->
+ - If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+-->
 
 
