@@ -34,7 +34,7 @@ I obtained Master degree with outstanding Master student award from Soochow Univ
 - Sentiment Analysis
 - Sound Analysis
 
-<span style="font-size: larger;">[LEARN MORE](https://qiangyangcs.github.io/interests)</span>
+[LEARN MORE](https://qiangyangcs.github.io/interests)
 
 <br>
 
