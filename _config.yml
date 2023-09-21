@@ -35,8 +35,8 @@ google_verify: "ob9vC57WRPyvIFiLo82paNzh-axO"
 links:
   - title: About Me
     url: /
-  # - title: Projects
-  #   url: /projects/
+  - title: Projects
+    url: /projects/
   - title: Publications
     url: /publications/
   # - title: Fundings
