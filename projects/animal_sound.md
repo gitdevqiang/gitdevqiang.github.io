@@ -6,6 +6,7 @@ title: Projects
 
 ## Animal Sound Analysis and Classification
 
+
 <div>
 <img src="/images/proimgs/animal_sound/1.png">
 </div>
