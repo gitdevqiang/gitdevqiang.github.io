@@ -42,8 +42,6 @@ I obtained Master degree with outstanding Master student award from Soochow Univ
 
 <br>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5hl1cnhkkp7&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
-
 ---
 
 ## Skills
@@ -69,5 +67,10 @@ I obtained Master degree with outstanding Master student award from Soochow Univ
 <!--- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).-->
 <!-- - If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].-->
 
+<br>
+
+---
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5hl1cnhkkp7&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 
