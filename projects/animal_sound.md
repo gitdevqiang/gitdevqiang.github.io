@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /projects/index.html
-title: Projects
 ---
+
 
 ## Animal Sound Analysis and Classification
 
