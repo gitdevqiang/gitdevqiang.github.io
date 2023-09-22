@@ -42,6 +42,17 @@ I obtained Master degree with outstanding Master student award from Soochow Univ
 
 ---
 
+## Selected Publications [Read More](https://qiangyangcs.github.io/publications)
+- **Qiang Yang**, Changsheng Ma, Qiannan Zhang, Xin Gao, Chuxu Zhang, and Xiangliang Zhang. 2023. Greedy Policy-based Perturbation for Counterfactual Learning on Heterogeneous Graphs. in KDD.
+- Qiannan Zhang, Shichao Pei, **Qiang Yang**, Chuxu Zhang, Nitesh V Chawla, and Xiangliang Zhang. 2023. Cross-domain Few-shot Graph Classification with a Reinforced Task Coordinator. In AAAI.
+- **Qiang Yang**, Changsheng Ma, Qiannan Zhang, Xin Gao, Chuxu Zhang, and Xiangliang Zhang. 2023. Interpretable Research Interest Shift with Temporal Heterogeneous Graphs Detection. in WSDM.
+- Xiuying Chen, Mingzhe Li, Shen Gao, Xin Cheng, **Qiang Yang**, Qishen Zhang, Xin Gao, and Xiangliang Zhang. 2023. A Topic-aware Summarization Framework with Different Modal Side Information. In SIGIR.
+
+<br>
+
+---
+
+
 ## Skills
 - Programming
   - Python, Java, C, C++
@@ -54,7 +65,7 @@ I obtained Master degree with outstanding Master student award from Soochow Univ
 
 ---
 
-## News and Updates
+## News
 
 - Will be updated soon.
 <!--- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).-->
