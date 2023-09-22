@@ -14,3 +14,6 @@ Interpretable graph learning on heterogeneous graph can be applied in different 
 ### Multimodal Mining
 
 Multimodal mining encompasses the analysis and machine learning applied to heterogeneous data sources, which can include text, images, audio, and more. Its primary objective is to extract valuable insights by seamlessly integrating and analyzing these diverse modalities, employing techniques such as feature fusion and the investigation of intermodal relationships. Its versatile applications extend to computer vision, natural language processing, healthcare, and autonomous systems, though it presents challenges such as data alignment, dimensionality reduction, and ethical considerations. Particularly, I focus on image captioning task which aims to generate the natural language for the image. Differenet from existing tasks, we try to generate caption for context-aware multiple images.
+
+<script src="/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop()</script>

@@ -54,3 +54,6 @@ title: Publications
 9. Zhi-Xu Li, **Qiang Yang**, An Liu, Guan-Feng Liu, Jia Zhu, Jia-Jie Xu, and Kai Zheng. 2017. Crowd-Guided Entity Matching with Consolidated Textual Data. JCST(2017).
 10. Binbin Gu, Zhixu Li, **Qiang Yang**, Qing Xie, An Liu, Guanfeng Liu, Kai Zheng, and Xiangliang Zhang. 2017. Web-ADARE: A web-aided data repairing system. Neurocomputing (2017).
 11. **Qiang Yang**, Zhi Xu Li, Jun Jiang, Peng Peng Zhao, Guan Feng Liu, An Liu, and Xiao Fang Zhou. 2016. Record matching with non-key attribute values. Chinese Journal of Computers(2016).
+
+<script src="/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop()</script>

@@ -20,3 +20,6 @@ title: Awards
 
 - March 2021 - Oct 2022：Technical Contributor of IEEE CS Global Student Challenge 2021
 - PC of AAAI, ISWC, CCL, NLPCC
+
+<script src="/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop()</script>

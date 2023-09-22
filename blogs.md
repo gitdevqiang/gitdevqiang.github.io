@@ -8,11 +8,11 @@ title: Blogs
 
 To be updated.
 
-```
-- 如何平衡学业、科研和恋爱？
-- [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)
-- [极简风个人网站搭建指南（完结）](https://caihanlin.com/blogs/web)
-```
+
+<!-- - 如何平衡学业、科研和恋爱？-->
+<!--- [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)-->
+<!-- - [极简风个人网站搭建指南（完结）](https://caihanlin.com/blogs/web)-->
+
 
 <br>
 
