@@ -8,7 +8,7 @@ url: https://qiangyangcs.github.io
 owner:
   name: Qiang (John) Yang
   avatar: Qiang.jpg
-  #bio: Qiang.jpg
+  bio: [Computational Bioscience Research Center (CBRC)](https://cemse.kaust.edu.sa/cbrc)
   email: qiang.yang@kaust.edu.sa
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
@@ -16,7 +16,7 @@ owner:
   github: gitdevqiang
   linkedin: qiang-yang-99167a1b1
   scholar: https://scholar.google.com/citations?user=hDCsypAAAAAJ&hl=en
-  orcid: http://orcid.org/0000-0002-3211-5369
+  orcid: 0000-0002-3211-5369
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -25,7 +25,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "ob9vC57WRPyvIFiLo82paNzh-axO"
+google_verify: "B_PLXUWT5UErOW6MD0lzVf1xjJunNqCp8Q7GHBdkreE"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -81,6 +81,10 @@ kramdown:
 # disqus settings:
 disqus:
   shortname: lancecai
+
+#map settings
+plugins:
+  - jekyll-maps
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
