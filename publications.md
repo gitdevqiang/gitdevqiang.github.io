@@ -6,6 +6,10 @@ title: Publications
 
 ## Conference
 
+### Year 2025
+1. Zihan Qiu, Xiaoling Zhou, Chunyan An, **Qiang Yang**, Zhixu Li. 2025. Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. in WSDM.
+
+
 ### Year 2024
 
 1. **Qiang Yang**, Xiaodong Wu, Xiuying Chen, Xin Gao, and Xiangliang Zhang. 2024. Multi-image Captioning with News Context via Adaptive Dual Attention. in ICASSP.
@@ -62,6 +66,7 @@ title: Publications
 
 ## Journal
 
+1. Rui Yin, Hongru Zhao, Lu Li, **Qiang Yang**, Min Zeng, Carl Yang, Jiang Bian, Mingyi Xie. Computational and Structural Biotechnology Journal (2024).
 1. Xiangliang Zhang, **Qiang Yang**, Somayah Albaradei, Xiaoting Lyu, Hind Alamro, Adil Salhi, Changsheng Ma, Manal Alshehri, Inji Ibrahim Jaber, Faroug Tifratene, Wei Wang, Takashi Gojobori, Carlos M Duarte, and Xin Gao. 2021. Rise and Fall of the Global Conversation and Shifting Sentiments during the COVID-19 Pandemic. Humanities and social sciences communications (2021).
 1. Lei Niu, Chenpeng Fu, **Qiang Yang**, Zhixu Li, Zhigang Chen, Qingsheng Liu, and Kai Zheng. 2021. Open-world knowledge graph completion with multiple interaction attention. WWWJ (2021).
 1. Ying He, Zhixu Li, **Qiang Yang**, Zhigang Chen, An Liu, Lei Zhao, and Xiaofang Zhou. 2020. End-to-end relation extraction based on bootstrapped multi-level distant supervision. . WWWJ (2021).
