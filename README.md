@@ -1,4 +1,4 @@
-# GuangLun means Nimbus in Chinese
+# Information
 
 My name is **Qiang Yang**. Here is my personal website. Welcome to fork for free!
 
