@@ -19,7 +19,7 @@ title: Awards
 ### Services
 
 - March 2021 - Oct 2022：Technical Contributor of IEEE CS Global Student Challenge 2021
-- PC of AAAI, ISWC, CCL, NLPCC
+- Reviewer of AAAI, KDD, ISWC, CCL, NLPCC, NeurlPS, TKDD, DASFAA, ACM Health, TNNLS, ACM Health.
 
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop()</script>
