@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://gitdevyang.github.io/Qiang_rr.jpg" class="floatpic" width="450" height="560">
+<img src="https://gitdevqiang.github.io/Qiang_rr.jpg" class="floatpic" width="450" height="560">
 
 I am Qiang (John) Yang, an incoming postdoctoral researcher at Health Outcomes & Biomedical Informatics in University of Florida in Prof. [Rui Yin](https://rayin-saber.github.io/yinrui.github.io/)'s group. I major in the graph neural networks and the interpretable learning as well as their applications on the heterogeneous graphs. I also focus on the large language models to solve the reseach problems on biomedical science. I received my Ph.D. degress in King Abdullah University of Science and Technology (KAUST) in 2023, under the supervision of Prof. [Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/) and Prof. [Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao) at the lab of [Machine Intelligence and kNowledge Engineering (MINE)](https://sites.nd.edu/xiangliang-zhang/) and [Structural and Functional Bioinformatics Group (SFB)](https://cemse.kaust.edu.sa/sfb). My dissertation focuses on interpretable learning on heterogeneous graphs, which reveals the predicted results by heterogeneous graph models by generating understandable graphs.
 
@@ -90,5 +90,3 @@ I obtained Master degree with outstanding Master student award from Soochow Univ
 
 <br>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7qnvyRmS5XW7eQYDY6kCD4F236A9oj9ETp9WBUpoGXw&cl=ffffff&w=a"></script>
-
-
