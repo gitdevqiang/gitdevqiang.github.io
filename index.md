@@ -46,7 +46,7 @@ Prior to my Ph.D., I obtained my Master’s degree from Soochow University, wher
 - **Heterogeneous Graph Neural Networks** – Modeling multi-relational and typed-entity graphs for interpretability and prediction  
 
 
-[![LEARN MORE](https://img.shields.io/badge/LEARN_MORE-green.svg?style=for-the-badge)](https://qiangyangcs.github.io/interests)
+[![LEARN MORE](https://img.shields.io/badge/LEARN_MORE-green.svg?style=for-the-badge)](https://gitdevqiang.github.io/interests)
 
 <br>
 
