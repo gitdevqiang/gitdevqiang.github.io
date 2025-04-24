@@ -45,10 +45,6 @@ Prior to my Ph.D., I obtained my Master’s degree from Soochow University, wher
 - **Graph Representation Learning** – Representation learning on networks, including biological, clinical, and knowledge graphs  
 - **Heterogeneous Graph Neural Networks** – Modeling multi-relational and typed-entity graphs for interpretability and prediction  
 
-### Applied AI Domains
-- **Sentiment Analysis** – Natural language understanding for patient feedback and clinical narratives  
-- **Sound Analysis** – Machine listening and acoustic signal interpretation in health and biomedical contexts
-
 
 [![LEARN MORE](https://img.shields.io/badge/LEARN_MORE-green.svg?style=for-the-badge)](https://qiangyangcs.github.io/interests)
 
