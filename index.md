@@ -6,10 +6,11 @@ layout: page
 
 <img src="https://gitdevqiang.github.io/Qiang_rr.jpg" class="floatpic" width="450" height="560">
 
-I am Qiang (John) Yang, an incoming postdoctoral researcher at Health Outcomes & Biomedical Informatics in University of Florida in Prof. [Rui Yin](https://rayin-saber.github.io/yinrui.github.io/)'s group. I major in the graph neural networks and the interpretable learning as well as their applications on the heterogeneous graphs. I also focus on the large language models to solve the reseach problems on biomedical science. I received my Ph.D. degress in King Abdullah University of Science and Technology (KAUST) in 2023, under the supervision of Prof. [Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/) and Prof. [Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao) at the lab of [Machine Intelligence and kNowledge Engineering (MINE)](https://sites.nd.edu/xiangliang-zhang/) and [Structural and Functional Bioinformatics Group (SFB)](https://cemse.kaust.edu.sa/sfb). My dissertation focuses on interpretable learning on heterogeneous graphs, which reveals the predicted results by heterogeneous graph models by generating understandable graphs.
+I am Qiang (John) Yang, a Postdoctoral Associate at the Department of Health Outcomes & Biomedical Informatics, University of Florida, where I am fortunate to be supervised by Prof. [Rui Yin](https://rayin-saber.github.io/yinrui.github.io/). My research lies at the intersection of graph neural networks (GNNs), interpretable machine learning, and their applications on heterogeneous graphs in biomedical informatics. I am also deeply engaged in leveraging large language models (LLMs) to address complex challenges in biomedical science and healthcare.
 
-I obtained Master degree with outstanding Master student award from Soochow University advised by Prof. [Zhixu Li](https://sites.google.com/site/zhixuli). During this processing, I mainly focus on database systems. Particularly, the overall goal is to improve data quality where I did some researches like record matching and data cleaning. Also, the exploration on the knowledge graphs (KGs) was done, like KG construction, representation, and so on.
+I earned my Ph.D. in Computer Science from King Abdullah University of Science and Technology (KAUST) in 2023, under the supervision of Prof. [Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/) and Prof. [Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao) at the lab of [Machine Intelligence and kNowledge Engineering (MINE)](https://sites.nd.edu/xiangliang-zhang/) and [Structural and Functional Bioinformatics Group (SFB)](https://cemse.kaust.edu.sa/sfb). My dissertation focused on interpretable learning for heterogeneous graphs, aiming to demystify the decision-making processes of GNN models through the generation of interpretable graph structures.
 
+Prior to my Ph.D., I obtained my Master’s degree from Soochow University, where I was honored with the Outstanding Master Student Award. Under the guidance of Prof. [Zhixu Li](https://sites.google.com/site/zhixuli), I worked on database systems, with a focus on data quality improvement through techniques such as record matching and data cleaning. I also explored knowledge graphs (KGs), contributing to areas such as KG construction and representation learning.
 <br>
 
 ---
@@ -29,16 +30,25 @@ I obtained Master degree with outstanding Master student award from Soochow Univ
 
 ## Research Interests
 
-- Bioinformatics
-- Protein Language Models
-- Machine Learning
-- Data Mining
-- Graph Representation Learning
-- Interpretable Leaning
-- Large Language Model
-- Multimodal Learning
-- Sentiment Analysis
-- Sound Analysis
+### AI for Biomedical Science
+- **Bioinformatics** – Computational modeling of biological systems and molecular interactions  
+- **Protein Language Models** – Deep learning for protein structure, function, and interaction prediction  
+- **Large Language Models (LLMs)** – Domain-specific fine-tuning for biomedical text and clinical notes  
+- **Multimodal Learning** – Integrating heterogeneous biomedical data (e.g., text, sequence, imaging, and signals) for predictive modeling  
+
+### Machine Learning & Data Science
+- **Machine Learning** – Supervised, unsupervised, and self-supervised learning for health data  
+- **Data Mining** – Large-scale data processing, pattern discovery, and anomaly detection  
+- **Interpretable Learning** – Building explainable models to uncover actionable insights in healthcare and science  
+
+### Graph-based Learning
+- **Graph Representation Learning** – Representation learning on networks, including biological, clinical, and knowledge graphs  
+- **Heterogeneous Graph Neural Networks** – Modeling multi-relational and typed-entity graphs for interpretability and prediction  
+
+### Applied AI Domains
+- **Sentiment Analysis** – Natural language understanding for patient feedback and clinical narratives  
+- **Sound Analysis** – Machine listening and acoustic signal interpretation in health and biomedical contexts
+
 
 [![LEARN MORE](https://img.shields.io/badge/LEARN_MORE-green.svg?style=for-the-badge)](https://qiangyangcs.github.io/interests)
 
