@@ -6,14 +6,26 @@ title: Interests
 
 ## Research Interests
 
-### Interpretable Graph Learning
+### Artificial Intelligence in Healthcare
 
-Interpretable graph learning on heterogeneous graph can be applied in different graph-relavent tasks, such as node classification, graph classification, and link prediction. It involves applying machine learning techniques to complex graphs containing diverse node and edge types, with a focus on explaining model predictions. This entails feature extraction from heterogeneous data, the use of interpretable models like decision trees or rule-based systems, and the incorporation of explainability methods such as feature importance scores and attention mechanisms. Understanding cross-type relationships and ensuring scalability are key challenges, while applications span recommendation systems, fraud detection, biology, and knowledge graph reasoning. Ethical considerations, such as bias detection and fairness, are integral to responsible heterogeneous graph interpretation, making it essential for transparent and accountable decision-making in diverse real-world contexts.
+Developing machine learning and deep learning models for clinical decision support, disease prediction (e.g., liver fibrosis, cancer), and patient outcome modeling using EHR data.
 
+### Graph Machine Learning
 
-### Multimodal Mining
+Designing graph neural networks (GNNs), especially for biomedical applications like protein interactions, patient graphs, and knowledge graphs.
 
-Multimodal mining encompasses the analysis and machine learning applied to heterogeneous data sources, which can include text, images, audio, and more. Its primary objective is to extract valuable insights by seamlessly integrating and analyzing these diverse modalities, employing techniques such as feature fusion and the investigation of intermodal relationships. Its versatile applications extend to computer vision, natural language processing, healthcare, and autonomous systems, though it presents challenges such as data alignment, dimensionality reduction, and ethical considerations. Particularly, I focus on image captioning task which aims to generate the natural language for the image. Differenet from existing tasks, we try to generate caption for context-aware multiple images.
+### Bioinformatics & Computational Biology
+
+Modeling biological sequences (e.g., proteins, genes) using transformer-based models for tasks like protein-protein interaction and host-pathogen modeling.
+
+### Multimodal and Cross-Domain Learning
+
+Integrating heterogeneous data types (e.g., text, lab values, medical images, molecular sequences) and transferring knowledge across domains with limited supervision.
+
+### Natural Language Processing
+
+Extracting clinical insights from free-text medical notes using large language models (LLMs) and rule-based systems.
+
 
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop()</script>

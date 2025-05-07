@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://gitdevqiang.github.io/Qiang_rr.jpg" class="floatpic" width="450" height="560">
 
-I am Qiang (John) Yang, a Postdoctoral Associate at the Department of Health Outcomes & Biomedical Informatics, University of Florida, where I am fortunate to be supervised by Prof. [Rui Yin](https://rayin-saber.github.io/yinrui.github.io/). My research lies at the intersection of graph neural networks (GNNs), interpretable machine learning, and their applications on heterogeneous graphs in biomedical informatics. I am also deeply engaged in leveraging large language models (LLMs) to address complex challenges in biomedical science and healthcare.
+I am Qiang Yang, a Postdoctoral Associate at the Department of Health Outcomes & Biomedical Informatics, University of Florida, where I am fortunate to be supervised by Prof. [Rui Yin](https://rayin-saber.github.io/yinrui.github.io/). My research lies at the intersection of graph neural networks (GNNs), interpretable machine learning, and their applications on heterogeneous graphs in biomedical informatics. I am also deeply engaged in leveraging large language models (LLMs) to address complex challenges in biomedical science and healthcare.
 
 I earned my Ph.D. in Computer Science from King Abdullah University of Science and Technology (KAUST) in 2023, under the supervision of Prof. [Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/) and Prof. [Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao) at the lab of [Machine Intelligence and kNowledge Engineering (MINE)](https://sites.nd.edu/xiangliang-zhang/) and [Structural and Functional Bioinformatics Group (SFB)](https://cemse.kaust.edu.sa/sfb). My dissertation focused on interpretable learning for heterogeneous graphs, aiming to demystify the decision-making processes of GNN models through the generation of interpretable graph structures.
 
@@ -17,12 +17,12 @@ Prior to my Ph.D., I obtained my Master’s degree from Soochow University, wher
 
 ## Academic Background
 
-- **November 2023 - Now:** University of Florida (Postdoctoral Researcher)
+- **November 2023 - Now:** University of Florida (Postdoctoral Associate)
 - **January 2019 - November 2023:** King Abdullah University of Science and Technology (Ph.D Degree)
 - **December 2022 - March 2023:** Fudan University (Visiting Student)
-- **September 2014 - June 2017:** Soochow University (Master Degree)
 - **May 2016 - November 2016:** King Abdullah University of Science and Technology (Visiting Student)
-- **September 2010 - July 2014:** Pingdingshan University (Bachelor Degree)
+- **September 2014 - June 2017:** Soochow University (Master Degree)
+
 
 <br>
 
@@ -31,10 +31,11 @@ Prior to my Ph.D., I obtained my Master’s degree from Soochow University, wher
 ## Research Interests
 
 ### AI for Biomedical Science
-- **Bioinformatics** – Computational modeling of biological systems and molecular interactions  
-- **Protein Language Models** – Deep learning for protein structure, function, and interaction prediction  
+- **Bioinformatics** – Computational modeling of protein interactions  
+- **Protein Language Models** – Deep learning for protein structure, function, and interaction prediction
+- **Biomedical Informatics** – Deep learning models for AD/ADRD, liver-relevant diseases, and cancers  
 - **Large Language Models (LLMs)** – Domain-specific fine-tuning for biomedical text and clinical notes  
-- **Multimodal Learning** – Integrating heterogeneous biomedical data (e.g., text, sequence, imaging, and signals) for predictive modeling  
+- **Multimodal Learning** – Integrating heterogeneous biomedical data (e.g., text, sequence, and imaging) for predictive modeling  
 
 ### Machine Learning & Data Science
 - **Machine Learning** – Supervised, unsupervised, and self-supervised learning for health data  
@@ -44,6 +45,7 @@ Prior to my Ph.D., I obtained my Master’s degree from Soochow University, wher
 ### Graph-based Learning
 - **Graph Representation Learning** – Representation learning on networks, including biological, clinical, and knowledge graphs  
 - **Heterogeneous Graph Neural Networks** – Modeling multi-relational and typed-entity graphs for interpretability and prediction  
+- **Interpretable Graph Learning** – Generate the interpretable subgrph for the graph predictions, such as link prediction and graph classificaiton
 
 
 [![LEARN MORE](https://img.shields.io/badge/LEARN_MORE-green.svg?style=for-the-badge)](https://gitdevqiang.github.io/interests)
