@@ -7,7 +7,9 @@ title: Publications
 ## Conference
 
 ### Year 2025
-1. Zihan Qiu, Xiaoling Zhou, Chunyan An, **Qiang Yang**, Zhixu Li. 2025. Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. in WSDM.
+1. **Qiang Yang**, Weimin Meng, Pei Zhuang, Stephen Anton, Yonghui Wu, and Rui Yin. 2025. AutoRADP: An Interpretable Deep Learning Framework to Predict Rapid Progression for Alzheimer’s Disease and Related Dementias Using Electronic Health Records. in ICIBM.
+1. **Qiang Yang**, Anu Sharma, Daphne Calin, Chloe de Crecy, Rohit Inampudi, and Rui Yin. 2025. FCFNets: A Factual and Counterfactual Learning Framework for Enhanced Hepatic Fibrosis Prediction in Young Adults with T2D. in AMIA.
+1. Zihan Qiu, Xiaoling Zhou, Chunyan An, **Qiang Yang**, and Zhixu Li. 2025. Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. in WSDM.
 
 
 ### Year 2024
