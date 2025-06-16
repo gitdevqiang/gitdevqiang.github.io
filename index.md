@@ -81,7 +81,9 @@ Prior to my Ph.D., I obtained my Master’s degree from Soochow University, wher
 
 ## News
 
-- Will be updated soon.
+- Our paper "AutoRADP: An Interpretable Deep Learning Framework to Predict Rapid Progression for Alzheimer’s Disease and Related Dementias Using Electronic Health Records" has been accepted as a full paper in ICIBM 2025.
+- Our paper "FCFNets: A Factual and Counterfactual Learning Framework for Enhanced Hepatic Fibrosis Prediction in Young Adults with T2D" has been accepted as a full paper in AMIA 2025.
+<!-- - Will be updated soon. -->
 <!--- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).-->
 <!--- **Aug 2023：**Happy to be awarded the FEPG Scholarship.-->
 <!--- **May 2023：**Happy to be awarded the XiamenAir Scholarship.-->
